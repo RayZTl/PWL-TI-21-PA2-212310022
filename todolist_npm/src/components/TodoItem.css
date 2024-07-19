@@ -1,0 +1,5 @@
+/* TodoItem.css */
+
+.completed-task {
+    text-decoration: line-through;
+  }
